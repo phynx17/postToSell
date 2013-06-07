@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'selloutTests' target in the 'selloutTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
